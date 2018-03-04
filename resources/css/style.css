@@ -1,3 +1,8 @@
+a {
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+}
 body {
   font-family: Helvetica;
   text-align: center;
@@ -16,6 +21,12 @@ h3{
 }
 p {
   font-size: 14px;
+}
+.footer {
+  text-align: left;
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
 }
 .header,
 .unique {
